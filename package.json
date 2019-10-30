@@ -1,0 +1,20 @@
+{
+  "author": {
+    "name": "Tim Martin"
+  },
+  "bugs": {
+    "url": "https://github.com/timplode/lambda-gs/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ghostscript for Lambda",
+  "homepage": "https://github.com/timplode/lambda-gs#readme",
+  "license": "MIT",
+  "name": "lambda-gs",
+  "repository": {
+    "type": "MIT",
+    "url": "git+https://github.com/timplode/lambda-gs.git"
+  },
+  "version": "1.0.0"
+}
+
